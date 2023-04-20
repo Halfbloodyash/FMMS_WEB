@@ -111,6 +111,7 @@ body{
     background: #40D3DC;
   }
   .footer{
+    position: relative;
     margin-left: 39%;
     padding-top: 5%;
   }
