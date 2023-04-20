@@ -8,7 +8,7 @@ body{
 
 /* Slideshow container */
 .slider{
-    width: 500%;
+    width: 100%;
     height: 50%;
     border-radius: 10px;
     overflow: hidden;
